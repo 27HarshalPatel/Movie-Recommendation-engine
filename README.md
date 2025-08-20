@@ -24,13 +24,9 @@ The project includes a small sample dataset of movies with genres and tags, alon
 
 pip install flask
 
-text
-
 2. Run the Flask application:
 
 python app.py
-
-text
 
 3. Open your browser and navigate to:
 
